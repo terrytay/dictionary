@@ -1,6 +1,6 @@
 # Dictionary CLI Application
 ## Introduction
-Wanna be cool? Want to be able to search words just from your terminal. This is your chance. Download this application and you will be able to find out the words
+Wanna be cool? Want to be able to search words just from your terminal? This is your chance. Download this application and you will be able to find out the words
 you are curious about in a blink.
 
 ## Prerequisites
